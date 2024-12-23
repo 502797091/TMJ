@@ -4,17 +4,18 @@
   icon: fa-star
   links: 
     - title: 抖音：童萌军分享
-      logo: 
+      qrcode: images/qrcodes/douying2w.png
+      logo: images/logos/touxiang.jpg
       url: https://v.douyin.com/i6UW3WV5/
       description: 一个专注于软件安装，系统小技巧相关教学的频道！
     - title: B站：童萌军分享
       qrcode: 
-      logo:  
+      logo: images/logos/touxiang.jpg
       url: https://space.bilibili.com/390246410?spm_id_from=333.337.0.0
       description: 资源分享，详细图文教程。
     - title: 公众号：童萌军分享
       qrcode: 
-      logo:   
+      logo: images/logos/touxiang.jpg
       url: https://flowus.cn/share/ed62fb49-4a71-42f3-985c-74343e14dd04?code=U81BVD
       description: 发送：往期相关资源。会有惊喜哦
     - title: 流量变现
