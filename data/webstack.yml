@@ -17,10 +17,10 @@
       logo:   
       url: https://flowus.cn/share/ed62fb49-4a71-42f3-985c-74343e14dd04?code=U81BVD
       description: 发送：往期相关资源。会有惊喜哦
-    - title: QQ群
-      logo: 
-      url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6TNV295m-TqKGSnbyf81aT7icTrdqqo3&authKey=gg4WE5cSwBswqN2et6p120eTycCmVoSUV%2Fj4VWEwfT5K%2FXKKWA0wZWpkzWUkeVan&noverify=0&group_code=1092886391
-      description: 小白勿入，沟通交流，资源分享
+    - title: 流量变现
+      logo:  images/logos/rengtuiban.png
+      url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
+      description: 一线的APP推广项目分发和流量变现平 台
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
