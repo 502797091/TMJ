@@ -26,14 +26,15 @@
       logo: images/logos/HQBS.png
       url: https://universalbus.cn?s=gB8CJKmJdd
       description: 流媒体影音账号合租平
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 无需实名，支持微信、支付宝、海外消费。
-    - title: NewBing
+    - title: 万事达虚拟信用卡
+      logo:  images/logos/MasterCard.png
+      url: https://bewildcard.com/i/WGRDRMGL/
+      description: 无需实名，支持微信、支付宝、海外消费
+    - title: visa虚拟信用卡
       qrcode: 
-      logo: images/logos/newbing.png
-      url: https://bing.kjgxbing.cloudns.be/web/#/
-      description: 无需梯子直接使用，内置GPT4，DALLE3以及各种插件
+      logo:  images/logos/visa.png
+      url: https://app.pokepay.cc/pages/passport/invitation?r=145892/
+      description: usdt支付宝消费AlipayHK套现
     - title: IOS (苹果) ID 礼品卡/兑换码
       logo:  images/logos/5eac6d69dc12980944f98.jpg
       url: https://app.xintaifree.com?from=5431/
@@ -67,7 +68,7 @@
       url: https://netcut.cn/
       description: 提供数据暂存和传送服务
     - title: 5ber eSIM卡
-      logo: 
+      logo: images/logos/5ber.png
       url: https://esim.5ber.com/?language=en-US&utm_source=kjgx&utm_medium=kjgx&utm_campaign=kjgx
       description: 让国行手机也有eSIM功能
     - title: 可可影视
