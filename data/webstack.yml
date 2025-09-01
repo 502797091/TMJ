@@ -16,6 +16,9 @@
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://mp.weixin.qq.com/s/z9IRDarxJZgW_UriQXmHTQ
       description: 资源分享，详细图文教程
+    - title: 资源库
+      url: https://pan.xunlei.com/s/VOZ3qZ4vrMZlRO3eQHfaYdfIA1?pwd=tnp4#
+      description: 分享的所用资源库，如需密码：tnp4
     - title: 全宇宙最便宜的vps
       logo: images/logos/racknerd.png
       url: https://my.racknerd.com/aff.php?aff=13491
@@ -61,9 +64,6 @@
     - title: OneDrive直链
       url: https://onedrive.gimhoy.com/
       description: OneDrive直链获取工具
-    - title: UUID生成
-      url: https://1024tools.com/uuid/
-      description: UUID在线生成
     - title: 文叔叔
       logo: 
       url: https://www.wenshushu.cn/
